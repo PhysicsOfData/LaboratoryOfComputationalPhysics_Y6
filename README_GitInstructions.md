@@ -4,11 +4,11 @@ The following instructions need to be followed any time a new local repository i
 
    * Clone your (forked) repository (i.e. create a local repository cloned from your remote repository)
 
-   `git clone https://<YourToken>@github.com/<YourUsername>/LaboratoryOfComputationalPhysics_Y5.git`
+   `git clone https://<YourToken>@github.com/<YourUsername>/LaboratoryOfComputationalPhysics_Y6.git`
 
    where <YourUsername> it your GitHub username and <YourToken> is the token as copied from the GitHub webpage. A new directory will appear in your current directory. Get into it:
 
-   `cd LaboratoryOfComputationalPhysics_Y5/`
+   `cd LaboratoryOfComputationalPhysics_Y6/`
 
    * Configure your username and email:
 
@@ -20,7 +20,7 @@ The following instructions need to be followed any time a new local repository i
 
    * Define the central HighLevelProgramming repo as the upstream repository:
 
-   `git remote add upstream https://github.com/PhysicsOfData/LaboratoryOfComputationalPhysics_Y5.git`
+   `git remote add upstream https://github.com/PhysicsOfData/LaboratoryOfComputationalPhysics_Y6.git`
 
    * Check that the previous commands succeeded:
 
